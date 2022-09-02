@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.receipt-search {
+  width: 100%;
+  max-width: 600px;
+  padding: 30px;
+  margin: auto;
+}
